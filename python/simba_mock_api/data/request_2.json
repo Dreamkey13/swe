@@ -1,0 +1,20 @@
+{
+  "message": "This is sample response data for request ID 2",
+  "status": "success",
+  "timestamp": "2025-04-10T12:30:00Z",
+  "data": {
+    "id": 2,
+    "name": "Sample Item 2",
+    "description": "This is another sample description",
+    "attributes": ["scalable", "maintainable", "robust"],
+    "items": [
+      {"id": 1, "value": "first"},
+      {"id": 2, "value": "second"},
+      {"id": 3, "value": "third"}
+    ],
+    "metadata": {
+      "version": "1.0.0",
+      "created_by": "Simba Mock API"
+    }
+  }
+}
